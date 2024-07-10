@@ -9,6 +9,7 @@ Note: My categorisation is based on my personal experience, for example: `Love S
     2. [Leap year calculator](./leap_year.py)
     3. [BMI Calculator](./bmi_calculator.py)
     4. [Love score](./love_score.py)
+    5. [Rock paper scissors](./rock_paper_scissors.py)
 
 2. Intermediate:
     1. [Mark the box](./mark_the_box.py)
