@@ -14,3 +14,4 @@ Note: My categorisation is based on my personal experience, for example: `Love S
 2. Intermediate:
     1. [Mark the box](./projects/mark_the_box.py)
     2. [Password Generator](./projects/password_generator.py)
+    3. [Hangman](./projects/hangman.py) - requires random-word module.
