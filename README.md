@@ -12,6 +12,7 @@ The aim is to keep these basic programs as sophisticated as possible by adding t
     3. [BMI Calculator](./projects/bmi_calculator.py)
     4. [Love score](./projects/love_score.py)
     5. [Rock paper scissors](./projects/rock_paper_scissors.py)
+    6. [Roman to int](./projects/roman_to_int.py)
 
 2. Intermediate:
     1. [Mark the box](./projects/mark_the_box.py)
