@@ -19,3 +19,4 @@ The aim is to keep these basic programs as sophisticated as possible by adding t
     2. [Password Generator](./projects/password_generator.py)
     3. [Hangman](./projects/hangman.py) - requires random-word module.
     4. [Ceasar Cipher](./projects/caesar_cipher.py)
+    5. [Blackjack](./projects/blackjack.py)
